@@ -1,23 +1,17 @@
-﻿
-# BCM2835
+﻿# [Linux4Pi](https://github.com/qitas/Linux4Pi) 
 
-### 简介
+#### qitas@qitas.cn
 
-用于裁剪定制树莓派的底层驱动
+## [描述](https://github.com/qitas/Linux4Pi/wiki) 
 
----
+树莓派系统工程源码库
 
-## 组成
+#### [BCM2835](BCM2835/) 
 
-#### 1.56 c lib
-
-
-
+基于BCM2835 SOC的源码
 
 ---
 
-## 说明
-
-2018-10-19: 创建工程
+### 锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
