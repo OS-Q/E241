@@ -1,7 +1,7 @@
 {
     "name": "E241",
     "description": "Standard Peripheral Library for GD32 MCUs",
-    "system": "all",
-    "url": "http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1743/PF257890",
+    "system": "*",
+    "url": "http://www.OS-Q.com/E241",
     "version": "2.10301.0"
 }
